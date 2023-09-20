@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-block-starter
+module github.com/Bmithbs/wowchemy-scroll-block
 
 go 1.19
